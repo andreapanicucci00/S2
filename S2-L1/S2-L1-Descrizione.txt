@@ -1,0 +1,6 @@
+- DMZ: Zona "cuscinetto" isolata per proteggere la rete interna da attacchi esterni. Ospita server pubblici come siti web o server email.
+- Internet: Connessione cloud fornita dal router per l'accesso alle risorse online.
+- SMTP: Simple Mail Transfer Protocol. 
+Utilizzato dal server SMTP per inviare e ricevere email da altri server di posta.
+- HTTP: Hypertext Transfer Protocol. 
+Utilizzato dal server HTTP per inviare pagine web ai browser web.
